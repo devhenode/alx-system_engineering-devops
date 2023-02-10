@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chmond -R ugo+X .
+#!/bin/bash 
+chmond -R ugo+X .
