@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmond -R a+x */
+sudo chmond -R +111 */
